@@ -1,7 +1,7 @@
 
 # Cindy's First CS193 Homework 
 ## Some of My Favorite Things About CS 193
-- The USB CS 193 Team! :heart:
+- The USB CS 193 Team! 😍
 - The TAs
 
 ## Welcome to GitHub Pages

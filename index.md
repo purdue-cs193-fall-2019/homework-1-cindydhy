@@ -1,6 +1,6 @@
 
 # Cindy's First CS193 Homework 
-## Some of My Favorite Things About CS 193
+### Some of My Favorite Things About CS 193:
 - The USB CS 193 Team! 😍
 - The TAs
 
